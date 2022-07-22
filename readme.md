@@ -8,7 +8,7 @@ I try to keep it short: We want sweats(*) for KukiLuki.
 
 ## Context
 
-We made single colour prints of the logo on hoodies/shirts last year. They were great but also a bit simple. 
+We made single color prints of the logo on hoodies and shirts last year. They were great and also simple. 
 
 ![](/kuki-last-year.jpg)
 
@@ -16,23 +16,25 @@ This is a test print on a "gym bag" made with another printing technique, which 
 
 ![](/test-print.jpg)
 
-Further another artist made a peacock which we have printed on vynil and is decorating our DJ booth.
+Further another artist made a peacock which we have printed on vinyl and is decorating our DJ booth.
 
 ![](/peacock.jpg)
 ![](/peacock-glow.jpg)
 
 
-Now while preparing for the party a few weeks ago the idea came up to print the peacock on the back of a hoodie. Now this is a great idea and we could have done so and call it a day. But we thought to have an artist (in this case you) make his own impression of the available artwork as a "sweat design".
+Now while preparing for the party a few weeks ago the idea came up to print the peacock on the back of a hoodie. 
+
+Now this is a great idea and we could have done so and call it a day. But we thought to have an artist (in this case you) make his own impression of the available artwork as a special "sweat design".
 
 ***
 
 ## KukiLuki - artistractly(*) speaking
 
-<i>(*) also a fantasie word as a combination of "artistically" and "abstractly" - mostly used to put a smile on your face.</i>
+<i>(*) also a fantasy word as a combination of "artistically" and "abstractly" - mostly used to put a smile on your face.</i>
 
 Generally we like the idea of having various artist make their own impression/version of whatever it is we want to have done for KukiLuki. A bit more organic.
 
-So what follows is a list of wishes and three pictures as a general idea and direction for the design. You can do whatever you like with it. So if you think/feel a certain idea or whish just doesn't look great/makes sense or whatever, then it's totally fine to ignore it. 
+So what follows is a list of wishes and three pictures as a general idea and direction for the design. You can do whatever you like with it. So if you think/feel a certain idea or wish just doesn't look great/makes sense or whatever, then it's totally fine to ignore it. 
 
 We prefer "a cool looking hoodie" over "the same thing on a t-shirt again".
 
@@ -52,7 +54,7 @@ That said there are a few "limits" in regards to what is printable and what is n
 
 - The printer uses a so called "DAG" printer (Direct-to-Garmet) which means we could also use "slight variations" without a problem.
 
-- if you see a way, to allow "special versions" for example for julius (as a founder) or e.g. for crew/helper or artists - then great, but this is not the main focus.
+- if you see a way, to allow "special versions" for example for Julius (as a founder) or e.g. for crew/helper or artists - then great, but this is not the main focus.
 
 - Image
 	- the image should have at least 300 dpi
@@ -96,11 +98,11 @@ While I was asking other members about "what is missing from the logo?" I got on
 
     "hmm maybe some flowers or somehing or maybe not I don't know, but a bit something around it like gaggalacka or maybe not(*)".
 
-So as a third and final image some stock image I found on google in half a minute - so please don't use it. This is purely meant as general direction - the design itself does not have to have any accociation with jungle.
+So as a third and final image some stock image I found on google in half a minute and is more meant as an conceptual direction the final sweats don't need to be in the jungle or something.
 
 ![](/rainforest.png)
 
-(*) Gaggalacka is another group organising parties and festivals, who have a very nice hoodie and we often refer to as an example a lot. - Also we will use the same printer as they do.
+(*) Gaggalacka is another group organizing parties and festivals, who have a very nice hoodie and we often refer to as an example a lot. - Also we will use the same printer as they do.
 
 ![](/gagga-back.jpg)
 ![](/gagga-front.jpg)
