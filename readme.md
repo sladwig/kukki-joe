@@ -99,7 +99,7 @@ While I was asking other members about "what is missing from the logo?" I got on
 
     "hmm maybe some flowers or somehing or maybe not I don't know, but a bit something around it like gaggalacka or maybe not(*)".
 
-So as a third and final image some stock image I found on google in half a minute and is more meant as an conceptual direction the final sweats don't need to be in the jungle or something.
+So as a third and final image I chose a picture of a "jungle" I found on google after half a minute. This is purely meant as an conceptual direction the final sweats don't need to be in the jungle or something.
 
 ![](/rainforest.png)
 
