@@ -99,8 +99,6 @@ While I was asking other members about "what is missing from the logo?" I got on
 So as a third and final image some stock image I found on google in half a minute - so please don't use it. This is purely meant as general direction - the design itself does not have to have any accociation with jungle.
 
 ![](/rainforest.png)
-![](/forest-soms.jpg)
-![](/jungle.jpg)
 
 (*) Gaggalacka is another group organising parties and festivals, who have a very nice hoodie and we often refer to as an example a lot. - Also we will use the same printer as they do.
 
