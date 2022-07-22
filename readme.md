@@ -62,6 +62,7 @@ That said there are a few "limits" in regards to what is printable and what is n
 	- use cmyk (neon colors are possible as far as I understood - let me know if I should find out more)
 	- max print width is 35cm (which is around 14inch -- not sure which scale system you use)
 
+***
 
 ## The inspirational direction
 
@@ -75,6 +76,7 @@ It was drawn by one of the initial members and then vectorized and touched up by
 
 If you see ways to improve the logo feel free to alter it - even if it's just for the shirts
 
+***
 
 #### The Peacock
 
@@ -89,8 +91,7 @@ You can use it "as is", as inspiration for your own (or not at all).
 
 On [our website](https://www.kukiluki.org) at the bottom you can find the very first peacock we used on the flyers, after that we hired an artist friend of Julius to draw the peacock to print on vinyl. 
 
-
-
+***
 
 #### The Jungle
 
